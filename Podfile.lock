@@ -1,0 +1,23 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - M13ProgressSuite (1.2.8)
+  - Masonry (1.0.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - ChameleonFramework (>= 2.1.0)
+  - M13ProgressSuite (= 1.2.8)
+  - Masonry (= 1.0.0)
+  - SDWebImage (= 3.7.5)
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  M13ProgressSuite: c357c8c163a59a7405e5a9ad7e9c63a19e5e5d20
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+COCOAPODS: 0.39.0
